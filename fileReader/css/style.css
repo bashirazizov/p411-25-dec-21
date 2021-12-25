@@ -1,0 +1,9 @@
+.upload-area{
+    height: 400px;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 400px;
+    font-size:100px;
+    cursor: pointer;
+}
